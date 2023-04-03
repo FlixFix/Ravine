@@ -1,4 +1,4 @@
-# Ravine
+# Ravine 🚴🏼‍♀️ 🚴🏼‍♀️
 ## What is this about
 This is very simple application, which checks the Website of a well-known bike-reseller (Can*on) for bike-models in specific sizes and sends an email message to a configured e-mail address, if the desired bike becomes available.
 
