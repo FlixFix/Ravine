@@ -13,6 +13,6 @@ spring:
 
   bikes:
     details:
-      soon-msg: 'Bald verfügbar'
+      soon-msg: 'Bald verfÃ¼gbar'
       sizes: 2XS
       urls: https://www.canyon.com/de-de/gravel-bikes/bike-packing/grizl/al/grizl-6/2708.html?dwvar_2708_pv_rahmenfarbe=GN, https://www.canyon.com/de-de/gravel-bikes/bike-packing/grizl/al/grizl-6/2708.html?dwvar_2708_pv_rahmenfarbe=GY%2FBK, https://www.canyon.com/de-de/gravel-bikes/bike-packing/grizl/al/grizl-7/2709.html?dwvar_2709_pv_rahmenfarbe=GN, https://www.canyon.com/de-de/gravel-bikes/bike-packing/grizl/al/grizl-7/2709.html?dwvar_2709_pv_rahmenfarbe=VT%2FBK, https://www.canyon.com/de-de/gravel-bikes/bike-packing/grizl/al/grizl-8-1by-ekar/3759.html?dwvar_3759_pv_rahmenfarbe=R075_P04
